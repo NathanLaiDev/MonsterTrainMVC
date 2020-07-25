@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonsterTrainMVC", "MonsterTrainMVC\MonsterTrainMVC.csproj", "{0E2DC3EE-08F8-44F4-ABD9-321D3347839A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E2DC3EE-08F8-44F4-ABD9-321D3347839A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E2DC3EE-08F8-44F4-ABD9-321D3347839A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E2DC3EE-08F8-44F4-ABD9-321D3347839A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E2DC3EE-08F8-44F4-ABD9-321D3347839A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1448EA15-5543-485C-953E-4890AF527858}
+	EndGlobalSection
+EndGlobal
